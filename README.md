@@ -3,7 +3,9 @@ Introduction to Machine Learning and Practicing Algorithms
 
 # Outlines and File Descriptions:
 -Copy of Intro_to_machine_learning.ipynb: (Exploring the iris data set that comes with sklearn. You can find the list of other data sets here too(https://scikit-learn.org/stable/tutorial/machine_learning_map/). We use  pd.read_csv('../datasets/iris/iris.csv')
-Model #1: K-Nearest Neighbors(KNN Model), Model #2: Predict housing prices (Using boston housing data set from here: https://www.kaggle.com/c/boston-housing)
+Model #1: K-Nearest Neighbors(KNN Model), Model #2: Predict housing prices, LinearRegression(Using boston housing data set from here: https://www.kaggle.com/c/boston-housing)
+
+-
 
 
 
